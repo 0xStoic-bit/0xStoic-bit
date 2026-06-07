@@ -28,14 +28,14 @@
 
 ## 🚧 Yaptığım Projeler
 
-### 🦾 [Engelsiz Yaşam](https://github.com/0xStoic-bit/EngelsizYasam) (BTK Hackathon 2026)
+### 🦾 [Engelsiz Yaşam](https://github.com/0xStoic-bit/EngelsizYasam) 
 > İşitme ve konuşma engelliler için **gerçek zamanlı çoklu modalite yardım sistemi**.
 - El takibi (MediaPipe) + İşaret sınıflandırma (PyTorch)
 - Ses olay tanıma (siren, yangın alarmı - YAMNet)
 - Nesne tespiti (YOLOv11) + sesli uyarı (TTS)
 - Tek tuş SOS + GPS konumu
 
-### 📦 [Getiremmi](https://github.com/0xStoic-bit/Getiremmi) (BTK Hackathon 2026)
+### 📦 [Getiremmi](https://github.com/0xStoic-bit/Getiremmi) 
 > **E-ticaret ve lojistik motoru**.
 - Amazon/eBay'den ürün çekme, fiyat analizi
 - Lineer regresyon ile 3 aylık fiyat tahmini
