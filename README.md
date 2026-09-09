@@ -48,7 +48,7 @@ A self-hosted, CAPTCHA-free behavioral bot-detection package combining browser t
   <a href="https://pepy.tech/projects/synapse-shield"><img src="https://static.pepy.tech/badge/synapse-shield" alt="Total PyPI downloads"></a>
 </p>
 
-**Current PyPI release:** `0.6.0` · [Live download statistics on Pepy](https://pepy.tech/projects/synapse-shield) *(includes CI traffic; not unique users)*
+**Current PyPI release:** `0.7.1` · [Live download statistics on Pepy](https://pepy.tech/projects/synapse-shield) *(includes CI traffic; not unique users)*
 
 | Layer | Focus |
 | --- | --- |
