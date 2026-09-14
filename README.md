@@ -36,7 +36,7 @@ Research-minded Builder</sub>
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Synapse Shield](https://github.com/0xStoic-bit/Synapse_Shield) · [PyPI 0.7.1](https://pypi.org/project/synapse-shield/)
+### 🛡️ [Synapse Shield](https://github.com/0xStoic-bit/Synapse_Shield) · [PyPI 0.7.4](https://pypi.org/project/synapse-shield/)
 
 **Open-Source Python Behavioral Bot-Detection Package**
 
